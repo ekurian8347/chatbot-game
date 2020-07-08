@@ -24,7 +24,7 @@ Clone the github repository.
 The two main files are index.js and game.js  
 game.js contains all the logic of the game.  
   
-Create an account in Heroku.  
+<a href="https://signup.heroku.com/" target="_blank">Create an account in Heroku. </a> 
 Upload the modified project to any Git repository.  
 Create a new app in Heroku.  
 Link the github repository with the app.  
