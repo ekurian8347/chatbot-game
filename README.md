@@ -7,22 +7,22 @@ The game takes you through an adventure inside a haunted house with a lot of exc
 How to Play
 -----
 
-To play the game click below:
-<a href="https://chatbot-game.herokuapp.com/" target="_blank">Start Game</a>
+To play the game click below:  
+<a href="https://chatbot-game.herokuapp.com/" target="_blank">Start Game</a>  
 
-Ask something to the chatbot.
-It will start the story and give you options to choose to move forward in the story.
-The story will move according the options you choose.
-There will be many exciting movements in the story.
+Ask something to the chatbot.  
+It will start the story and give you options to choose to move forward in the story.  
+The story will move according the options you choose.  
+There will be many exciting movements in the story.  
 
-All the best !
+All the best !  
 
 How to Use Project 
 -----
 
-Clone the github repository.
-The two main files are index.js and game.js
-game.js contains all the logic of the game.
+Clone the github repository.  
+The two main files are index.js and game.js  
+game.js contains all the logic of the game.  
 
 
 
