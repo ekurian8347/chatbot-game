@@ -24,6 +24,10 @@ Clone the github repository.
 The two main files are index.js and game.js  
 game.js contains all the logic of the game.  
   
+Open the project in Visual Code.  
+Modify the logic inside game.js file to change the story.  
+Build the project.  
+  
 <a href="https://signup.heroku.com/" target="_blank">Create an account in Heroku. </a>   
 Upload the modified project to any Git repository.  
 Create a new app in Heroku.  
