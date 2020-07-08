@@ -1,20 +1,30 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+# <a href="https://github.com/ekurian8347/chatbot-game" target="_blank">Chatbot - Game</a>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+This is a chatbot game written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+The game takes you through an adventure inside a haunted house with a lot of exciting situations. 
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
-
-Marking
+How to Play
 -----
 
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 60|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
+To play the game click below:
+<a href="https://chatbot-game.herokuapp.com/" target="_blank">Start Game</a>
+
+Ask something to the chatbot.
+It will start the story and give you options to choose to move forward in the story.
+The story will move according the options you choose.
+There will be many exciting movements in the story.
+
+All the best !
+
+How to Use Project 
+-----
+
+Clone the github repository.
+The two main files are index.js and game.js
+game.js contains all the logic of the game.
+
+
 
 
 
